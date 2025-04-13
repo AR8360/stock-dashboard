@@ -75,3 +75,4 @@ export const fetchHistoricalData = async (
 
   return await response.json();
 };
+
